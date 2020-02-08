@@ -2,7 +2,7 @@
 CRUD em Array utilizando NodeJS
 
 Desafio 01 do Bootcamp GoStack da RocketSeat.
-https://github.com/Dev4ster/bootcamp-gostack-desafio-01
+https://github.com/Rocketseat/bootcamp-gostack-desafio-01
 
 ## Requisitos
 
